@@ -6,7 +6,8 @@ Tnis app builds the back end for an e-commerce site. You’ll take a working Exp
  ###WalkThrough Video
 https://drive.google.com/file/d/1wJYkWWJRAdD94s9au8hiMHG6sG-Pihq3/view
 
-###IMAGE
+###I#MAGE  
+
 ![image](https://user-images.githubusercontent.com/57454930/183267310-4e8eec38-aa1c-4631-b06e-a38f224d5048.png)
 
 
